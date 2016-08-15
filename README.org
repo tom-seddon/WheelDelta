@@ -1,0 +1,10 @@
+Test program for excessive wheel delta acceleration in Parallels.
+
+Run =Debug\WheelDelta.exe= and spin the mouse wheel. Note values.
+
+Running in Windows 10 via Boot Camp, I get a wheel delta of +120 or
+-120... maybe 240 or 360, if I spin the wheel really fast.
+
+Running in the same copy of Windows 10 under Parallels, the wheel
+delta is more like 2,500. This translates into unmanageably fast
+scrolling.
